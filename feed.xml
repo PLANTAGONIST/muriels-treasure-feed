@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Muriel's Treasure with Irwin</title>
+    <link>https://www.wfmu.org/playlists/MZ</link>
+    <atom:link href="https://example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <description>Custom RSS feed generated from WFMU podcast archive URLs.</description>
+    <itunes:summary>Custom RSS feed generated from WFMU podcast archive URLs.</itunes:summary>
+    <itunes:author>WFMU / Irwin Chusid</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <generator>OpenAI ChatGPT</generator>
+    <lastBuildDate>Sun, 22 Mar 2026 00:00:00 +0000</lastBuildDate>
+
+    <item>
+      <title>Mommie Out de Light</title>
+      <pubDate>Wed, 23 May 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz070523p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz070523p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - May 23, 2007</description>
+    </item>
+    <item>
+      <title>Bei Mir Bist du Schoen</title>
+      <pubDate>Wed, 16 May 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz070516p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz070516p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - May 16, 2007</description>
+    </item>
+    <item>
+      <title>Hair in Your Teeth</title>
+      <pubDate>Wed, 02 May 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz070502p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz070502p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - May 2, 2007</description>
+    </item>
+    <item>
+      <title>You're a Real Operator</title>
+      <pubDate>Wed, 25 Apr 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz070425p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz070425p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - April 25, 2007</description>
+    </item>
+    <item>
+      <title>Nothin' But a Double Barrel Shotgun's Gonna Keep Me Away From You</title>
+      <pubDate>Wed, 18 Apr 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz070418p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz070418p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - April 18, 2007</description>
+    </item>
+    <item>
+      <title>Talking Parrot</title>
+      <pubDate>Wed, 11 Apr 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz070411p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz070411p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - April 11, 2007</description>
+    </item>
+    <item>
+      <title>Keep Calypso Clean</title>
+      <pubDate>Wed, 21 Mar 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz070321p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz070321p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - March 21, 2007</description>
+    </item>
+    <item>
+      <title>Concrete and Clay</title>
+      <pubDate>Wed, 28 Feb 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz070228p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz070228p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - February 28, 2007</description>
+    </item>
+    <item>
+      <title>Michael Remove Your Face</title>
+      <pubDate>Wed, 14 Feb 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz070214p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz070214p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - February 14, 2007</description>
+    </item>
+    <item>
+      <title>One Pant Man</title>
+      <pubDate>Wed, 07 Feb 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz070207p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz070207p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - February 7, 2007</description>
+    </item>
+    <item>
+      <title>Sound of the Witch Doctor</title>
+      <pubDate>Wed, 31 Jan 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz070131p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz070131p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - January 31, 2007</description>
+    </item>
+    <item>
+      <title>Pussy Laughing At Me</title>
+      <pubDate>Wed, 24 Jan 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz070124p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz070124p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - January 24, 2007</description>
+    </item>
+    <item>
+      <title>They Talk About Nora's Badness</title>
+      <pubDate>Wed, 17 Jan 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz070117p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz070117p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - January 17, 2007</description>
+    </item>
+    <item>
+      <title>One-Foot Cock</title>
+      <pubDate>Wed, 10 Jan 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz070110p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz070110p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - January 10, 2007</description>
+    </item>
+    <item>
+      <title>Mama Don' Want No Rice No Peas No Coconut Oil</title>
+      <pubDate>Wed, 03 Jan 2007 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz070103p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz070103p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - January 3, 2007</description>
+    </item>
+    <item>
+      <title>Severe Licking</title>
+      <pubDate>Wed, 27 Dec 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz061227p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz061227p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - December 27, 2006</description>
+    </item>
+    <item>
+      <title>The Beautiful Land of Iere</title>
+      <pubDate>Wed, 13 Dec 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz061213p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz061213p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - December 13, 2006</description>
+    </item>
+    <item>
+      <title>Jack's Broth</title>
+      <pubDate>Wed, 06 Dec 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz061206p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz061206p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - December 6, 2006</description>
+    </item>
+    <item>
+      <title>Bobby Sox Idol</title>
+      <pubDate>Wed, 29 Nov 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz061129p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz061129p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - November 29, 2006</description>
+    </item>
+    <item>
+      <title>Nobody Wants to Grow Old</title>
+      <pubDate>Wed, 15 Nov 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz061115p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz061115p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - November 15, 2006</description>
+    </item>
+    <item>
+      <title>Big Confusion</title>
+      <pubDate>Wed, 08 Nov 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz061108p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz061108p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - November 8, 2006</description>
+    </item>
+    <item>
+      <title>Money Is King</title>
+      <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz061101p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz061101p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - November 1, 2006</description>
+    </item>
+    <item>
+      <title>Man Centipede</title>
+      <pubDate>Wed, 25 Oct 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz061025p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz061025p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - October 25, 2006</description>
+    </item>
+    <item>
+      <title>Jerk</title>
+      <pubDate>Wed, 18 Oct 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz061018p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz061018p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - October 18, 2006</description>
+    </item>
+    <item>
+      <title>Come Back With Me Wife Nighty</title>
+      <pubDate>Wed, 11 Oct 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz061011p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz061011p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - October 11, 2006</description>
+    </item>
+    <item>
+      <title>Don't Touch Me Tomato</title>
+      <pubDate>Wed, 04 Oct 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz061004p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz061004p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - October 4, 2006</description>
+    </item>
+    <item>
+      <title>Donkey Must Wear Pants</title>
+      <pubDate>Wed, 27 Sep 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060927p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060927p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - September 27, 2006</description>
+    </item>
+    <item>
+      <title>West Indian Weed Woman</title>
+      <pubDate>Wed, 20 Sep 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060920p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060920p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - September 20, 2006</description>
+    </item>
+    <item>
+      <title>Vim, Vigor and Vitality</title>
+      <pubDate>Wed, 13 Sep 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060913p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060913p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - September 13, 2006</description>
+    </item>
+    <item>
+      <title>Dog is Better Than Man</title>
+      <pubDate>Wed, 06 Sep 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060906p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060906p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - September 6, 2006</description>
+    </item>
+    <item>
+      <title>Grine Um</title>
+      <pubDate>Wed, 30 Aug 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060830p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060830p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - August 30, 2006</description>
+    </item>
+    <item>
+      <title>Breakfast in a Flying Saucer</title>
+      <pubDate>Wed, 23 Aug 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060823p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060823p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - August 23, 2006</description>
+    </item>
+    <item>
+      <title>Collateral Damage</title>
+      <pubDate>Wed, 16 Aug 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060816p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060816p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - August 16, 2006</description>
+    </item>
+    <item>
+      <title>Caroni Swamp</title>
+      <pubDate>Wed, 09 Aug 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060809p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060809p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - August 9, 2006</description>
+    </item>
+    <item>
+      <title>Try a Screw to Get Through</title>
+      <pubDate>Wed, 02 Aug 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060802p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060802p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - August 2, 2006</description>
+    </item>
+    <item>
+      <title>Three Friends' Advice</title>
+      <pubDate>Wed, 26 Jul 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060726p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060726p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - July 26, 2006</description>
+    </item>
+    <item>
+      <title>Man Is Easy Fish</title>
+      <pubDate>Wed, 19 Jul 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060719p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060719p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - July 19, 2006</description>
+    </item>
+    <item>
+      <title>Shame and Scandal</title>
+      <pubDate>Wed, 12 Jul 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060712p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060712p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - July 12, 2006</description>
+    </item>
+    <item>
+      <title>You Don't Need Glasses to See</title>
+      <pubDate>Wed, 05 Jul 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060705p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060705p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - July 5, 2006</description>
+    </item>
+    <item>
+      <title>Warning to Men</title>
+      <pubDate>Wed, 28 Jun 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060628p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060628p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - June 28, 2006</description>
+    </item>
+    <item>
+      <title>LORD KITCHENER tribute with guest co-host Lane Steinberg</title>
+      <pubDate>Wed, 21 Jun 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060621p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060621p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - June 21, 2006</description>
+    </item>
+    <item>
+      <title>Behave Yourself</title>
+      <pubDate>Wed, 14 Jun 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060614p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060614p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - June 14, 2006</description>
+    </item>
+    <item>
+      <title>Old Lady You Mashing My Toe</title>
+      <pubDate>Wed, 31 May 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060531p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060531p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - May 31, 2006</description>
+    </item>
+    <item>
+      <title>Erasmus B. Black</title>
+      <pubDate>Wed, 24 May 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060524p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060524p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - May 24, 2006</description>
+    </item>
+    <item>
+      <title>Journalist/ethnomusicologist RICHARD GEHR guest programmer</title>
+      <pubDate>Wed, 17 May 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060517p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060517p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - May 17, 2006</description>
+    </item>
+    <item>
+      <title>Woman is Boss</title>
+      <pubDate>Wed, 03 May 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060503p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060503p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - May 3, 2006</description>
+    </item>
+    <item>
+      <title>SPARROW SPILLOVER! Another hour of The Mighty Sparrow</title>
+      <pubDate>Wed, 26 Apr 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060426p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060426p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - April 26, 2006</description>
+    </item>
+    <item>
+      <title>MIGHTY SPARROW tribute with co-host Lane Steinberg and (phone) guest VAN DYKE PARKS</title>
+      <pubDate>Wed, 19 Apr 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060419p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060419p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - April 19, 2006</description>
+    </item>
+    <item>
+      <title>What Is This Generation Coming To?</title>
+      <pubDate>Wed, 05 Apr 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060405p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060405p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - April 5, 2006</description>
+    </item>
+    <item>
+      <title>Attempt Is As Good As the Act</title>
+      <pubDate>Wed, 29 Mar 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060329p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060329p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - March 29, 2006</description>
+    </item>
+    <item>
+      <title>Last Night the Landlord Nearly Killed Me</title>
+      <pubDate>Wed, 22 Mar 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060322p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060322p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - March 22, 2006</description>
+    </item>
+    <item>
+      <title>Paul Yer Mudder Cum</title>
+      <pubDate>Wed, 15 Mar 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060315p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060315p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - March 15, 2006</description>
+    </item>
+    <item>
+      <title>My Experience on the Rieperbahn</title>
+      <pubDate>Wed, 22 Feb 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060222p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060222p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - February 22, 2006</description>
+    </item>
+    <item>
+      <title>Smoke a Cigarette</title>
+      <pubDate>Wed, 15 Feb 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060215p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060215p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - February 15, 2006</description>
+    </item>
+    <item>
+      <title>Rum is Macho</title>
+      <pubDate>Wed, 08 Feb 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060208p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060208p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - February 8, 2006</description>
+    </item>
+    <item>
+      <title>Love Is a Bar of Sugar Candy</title>
+      <pubDate>Wed, 01 Feb 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060201p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060201p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - February 1, 2006</description>
+    </item>
+    <item>
+      <title>Creature from the Black Lagoon</title>
+      <pubDate>Wed, 25 Jan 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060125p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060125p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - January 25, 2006</description>
+    </item>
+    <item>
+      <title>I Will Die a Bachelor</title>
+      <pubDate>Wed, 18 Jan 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060118p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060118p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - January 18, 2006</description>
+    </item>
+    <item>
+      <title>Work Kill My Family</title>
+      <pubDate>Wed, 04 Jan 2006 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz060104p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz060104p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - January 4, 2006</description>
+    </item>
+    <item>
+      <title>Trip to Mars</title>
+      <pubDate>Wed, 28 Dec 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz051228p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz051228p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - December 28, 2005</description>
+    </item>
+    <item>
+      <title>Bring Back the Old Cat-O-Nine</title>
+      <pubDate>Wed, 21 Dec 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz051221p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz051221p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - December 21, 2005</description>
+    </item>
+    <item>
+      <title>Satan's Little Lamb</title>
+      <pubDate>Wed, 14 Dec 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz051214p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz051214p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - December 14, 2005</description>
+    </item>
+    <item>
+      <title>I Left Her Behind For You</title>
+      <pubDate>Wed, 07 Dec 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz051207p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz051207p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - December 7, 2005</description>
+    </item>
+    <item>
+      <title>Send Your Children to the Orphan Home</title>
+      <pubDate>Wed, 30 Nov 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz051130p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz051130p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - November 30, 2005</description>
+    </item>
+    <item>
+      <title>Love in the Cemetery</title>
+      <pubDate>Wed, 23 Nov 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz051123p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz051123p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - November 23, 2005</description>
+    </item>
+    <item>
+      <title>Tiger Tom Kill Tiger Cat</title>
+      <pubDate>Wed, 16 Nov 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz051116p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz051116p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - November 16, 2005</description>
+    </item>
+    <item>
+      <title>Carlton Peeping at Me</title>
+      <pubDate>Wed, 09 Nov 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz051109p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz051109p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - November 9, 2005</description>
+    </item>
+    <item>
+      <title>Madame, Take Back Your Basket</title>
+      <pubDate>Wed, 02 Nov 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz051102p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz051102p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - November 2, 2005</description>
+    </item>
+    <item>
+      <title>Patricia Gone With Millicent</title>
+      <pubDate>Wed, 26 Oct 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz051026p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz051026p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - October 26, 2005</description>
+    </item>
+    <item>
+      <title>Landlady Want Rent</title>
+      <pubDate>Wed, 19 Oct 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz051019p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz051019p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - October 19, 2005</description>
+    </item>
+    <item>
+      <title>Bloodshot Eyes</title>
+      <pubDate>Wed, 12 Oct 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz051012p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz051012p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - October 12, 2005</description>
+    </item>
+    <item>
+      <title>Debut of Muriel's Treasure: An Hour of Calypso and Soca</title>
+      <pubDate>Wed, 05 Oct 2005 00:00:00 +0000</pubDate>
+      <enclosure url="https://podcast.wfmu.org/MZ/mz051005p.mp3" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://podcast.wfmu.org/MZ/mz051005p.mp3</guid>
+      <description>Muriel's Treasure with Irwin - October 5, 2005</description>
+    </item>
+  </channel>
+</rss>
