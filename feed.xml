@@ -3,7 +3,7 @@
   <channel>
     <title>Muriel's Treasure with Irwin</title>
     <link>https://www.wfmu.org/playlists/MZ</link>
-    <atom:link href="https://example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://plantagonist.github.io/muriels-treasure-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <description>Custom RSS feed generated from WFMU podcast archive URLs.</description>
     <itunes:summary>Custom RSS feed generated from WFMU podcast archive URLs.</itunes:summary>
@@ -11,6 +11,12 @@
     <itunes:explicit>false</itunes:explicit>
     <generator>OpenAI ChatGPT</generator>
     <lastBuildDate>Sun, 22 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://plantagonist.github.io/muriels-treasure-feed/cover.jpg</url>
+      <title>Muriel's Treasure with Irwin</title>
+      <link>https://www.wfmu.org/playlists/MZ</link>
+    </image>
+    <itunes:image href="https://plantagonist.github.io/muriels-treasure-feed/cover.jpg"/>
 
     <item>
       <title>Mommie Out de Light</title>
